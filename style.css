@@ -177,6 +177,33 @@ body img{
     font-family: tahoma;
     font-weight: bold;
 }
+  .form{
+      width: 400px;
+      height: 250px;
+      margin: auto;
+      background-color: bisque;
+      padding-top: 50px;
+      margin-bottom: 50px;
+  }
+
+  .form input{
+      border: none;
+      outline: none;
+      background: #383836;
+      color: black;
+      padding: 10px;
+      border-radius: 4px;
+      margin-left: 90px;
+      margin-top: 5px;
+      
+  }
+  .form  .btn{
+      margin-left: 120px;
+      margin-top: 5px;
+      cursor: pointer;
+
+  }
+
 
 .login-sec{
     width: 100%;
