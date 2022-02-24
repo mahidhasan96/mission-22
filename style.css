@@ -1,0 +1,227 @@
+
+body img{
+   
+}
+
+.left{
+    float: left;
+    overflow: hidden;
+}
+
+.left{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.Focuse-sectioin{
+    border-left: 2px solid orangered;
+    
+
+}
+
+.Focuse-sectioin h1,h2{
+    color: black;
+    font-weight: 800;
+    margin-left: 3px;
+    
+
+}
+.Focuse-sectioin h2{
+    color: orange;
+    font-weight: 800;
+    margin-left: 3px;
+    
+
+}
+
+.btn{
+    width: 120px;
+    height: 35px;
+    background-color: orangered;
+    border: none;
+    border-radius: 4px;
+}
+
+.right img{
+    width: 30%;
+    margin-left: 150px;
+    
+}
+
+.mission{
+    text-align: center;
+    font-size: 40px;
+    color: black;
+    font-size: bold;
+    margin-bottom: 50px;
+}
+.mission span{
+    color: red;
+    font-size: 30px;
+    font-size: bold;
+}
+
+
+.flex-container {
+    display: flex;
+    margin-left: 100px;
+    
+
+  }
+  .flex-container h1{
+      font-size: 25px;
+      margin-top: 0;
+      margin-bottom: 0;
+      text-transform: capitalize;
+      margin-left: 20px;
+  }
+
+  .flex-container h6{
+    font-size: 14px;
+    text-transform: capitalize;
+    margin-left: 20px;
+}
+  .flex-container > .flex-item1 {
+    background-color: palegoldenrod;
+    color: black;
+     width: 30%;
+    margin: 10px;
+    font-size: 30px;
+    border-radius: 5px;
+  }
+  
+  .flex-container > .flex-item2 {
+    background-color: dodgerblue;
+    color: white;
+     width: 30%;
+    margin: 10px;
+    font-size: 30px;
+    border-radius: 5px;
+  }
+  .flex-container > .flex-item3 {
+    background-color: yellow;
+    color: red;
+     width: 30%;
+    margin: 10px;
+    font-size: 30px;
+    border-radius: 5px;
+  }
+
+
+  .flex-container img{
+      width: 50%;
+      text-align: center;
+  }
+
+
+  .woman{
+     width: 100%;
+     margin-top: 50px;
+     overflow: hidden;
+  }
+
+  .women-sec{
+      width: 50%;
+      float: left;
+  }
+  .women-sec, img{
+      width: 50%;
+      text-align: right;
+      margin-right: 20px;
+  }
+
+  
+  .red-btn{
+    width: 200px;
+    height: 35px;
+    background-color: orangered;
+    border: none;
+    border-radius: 4px;
+}
+
+.man{
+    width: 100%;
+    margin-top: 50px;
+    margin-left: 200px;
+    overflow: hidden;
+}
+.doc{
+    width: 40%;
+    float: left;
+    margin-left: 50px;
+}
+.men-sec img{
+    width: 50%;
+}
+
+
+.men-sec{
+    width: 55%;
+    float: right;
+}
+
+.corona-sec {
+    text-align: center;
+    margin: 50px 0;
+    color: tomato;
+    text-transform: capitalize;
+    font-size: 30px;
+    font-family: tahoma;
+    font-weight: bold;
+}
+
+.corona-sec span{
+    color: black;
+    text-transform: capitalize;
+    font-size: 30px;
+    font-family: tahoma;
+    font-weight: bold;
+}
+
+.login-sec{
+    width: 100%;
+    overflow: hidden;
+
+
+}
+
+.signup{
+    background-image: url(/images/shapes/shape-1.png);
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: right;
+    width: 50%;
+    float: left;
+}
+
+.signup img{
+    width: 30%;
+    margin-left: 340px;
+}
+
+.app-sec{
+    width: 40%;
+    float: right;
+    
+
+}
+
+footer{
+    width: 80%;
+    height: 100px;
+    text-align: center;
+    margin: auto;
+    background-color: black;
+    color: white;
+}
+
+footer span{
+    color: brown;
+}
+
+footer h1{
+    font-size: 30px;
+    color: white;
+    font-size: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
